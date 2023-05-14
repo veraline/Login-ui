@@ -18,7 +18,7 @@ home: Scaffold(
         SizedBox(
           height: 500,
             width: 400,
-            child: Image(image: AssetImage("assets/Avatar_2.png"),)
+            child: Image(image: AssetImage("assets/Register2.png"),)
         ),
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 50, vertical: 10),
